@@ -1,1 +1,1 @@
-web: python agahi_divar_bot 0.0.0.py
+web: python agahi_divar_bot.py
