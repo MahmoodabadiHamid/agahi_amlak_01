@@ -1,1 +1,1 @@
-worker: python agahi_divar_bot.py
+web: python agahi_divar_bot.py
